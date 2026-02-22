@@ -170,4 +170,4 @@ MIT License — free to use, modify, and distribute.
 **Anugrah Singh**
 Built with ❤️ and reinforcement learning.
 
-[![GitHub](https://img.shields.io/badge/GitHub-AnugrahSingh-181717?style=flat&logo=github)](https://github.com/AnugrahSingh)
+[![GitHub](https://github.com/neetaaman20-cloud/neetaaman20-cloud)
